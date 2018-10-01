@@ -16,7 +16,8 @@ const Layout: React.SFC<Props> = ({ children, title = 'This is the default title
     <header>
       <nav>
         <Link href='/'><a>Home</a></Link> |{' '}
-        <Link href='/about'><a>About</a></Link>
+        <Link href='/about'><a>About</a></Link> |{' '}
+        <Link href='/form'><a>Form</a></Link>
       </nav>
     </header>
     {children}

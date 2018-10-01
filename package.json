@@ -9,9 +9,11 @@
   },
   "dependencies": {
     "@zeit/next-typescript": "^1.1.1",
+    "final-form": "^4.10.0",
     "next": "latest",
     "react": "^16.5.2",
-    "react-dom": "^16.5.2"
+    "react-dom": "^16.5.2",
+    "react-final-form": "^3.6.5"
   },
   "devDependencies": {
     "@types/next": "^6.1.7",
